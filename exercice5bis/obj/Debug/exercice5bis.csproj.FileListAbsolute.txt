@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\bin\Debug\exercice5bis.exe.config
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\bin\Debug\exercice5bis.exe
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\bin\Debug\exercice5bis.pdb
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\obj\Debug\exercice5bis.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\obj\Debug\exercice5bis.exe
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\obj\Debug\exercice5bis.pdb
+C:\Users\Moi\Desktop\Exercice Conditions\Exercice\Conditions\exercice5bis\obj\Debug\exercice5bis.csprojAssemblyReference.cache
